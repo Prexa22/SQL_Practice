@@ -1,2 +1,2 @@
-# SQL_Practice_Hospital_Data
+# SQL_Practice
 Practice SQL
