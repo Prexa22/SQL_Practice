@@ -1,6 +1,5 @@
 -- Use hospital.db dataset from https://www.sql-practice.com/
-SELECT * FROM patients
-
+-- Tables: SELECT * FROM patients, SELECT * FROM admissions, SELECT * FROM doctors
 --===Easy
 
 -- 1. Show first name, last name, and gender of patients whose gender is 'M'
